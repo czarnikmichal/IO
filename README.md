@@ -1,4 +1,0 @@
-IO
-==
-
-Inżynieria Oprogramowania
